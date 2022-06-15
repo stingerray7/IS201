@@ -1,0 +1,60 @@
+h1{
+    color:#fcfcfc;
+}
+p{
+    color: #585c5c;
+    font-size: 15px;
+}
+h3{
+    font-size: 25px;
+    font-style:italic;
+}
+h2{
+    font-size: 25px;
+    font-style:italic;
+}
+h4{
+    font-size: 25px;
+    font-style: italic;
+}
+h5{
+    font-size: 25px;
+    font-style: italic;
+}
+h6{
+    font-size:25px;
+    font-style: italic;
+}
+li{
+    font-size: 18px;
+}
+.ytvideo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    font-size: 15px;
+    color:#2438d1;
+}
+.gototopindex{
+    text-align: center;
+}
+.gototopabout{
+    text-align: center;
+}
+.nala{
+    text-align: center;
+    align-items: center;
+}
+.timp{
+    text-align: center;
+    align-items: center;
+}
+.canyon{
+    text-align: center;
+    align-items: center;
+}
+.resumeparts{
+    text-align:left;
+}
